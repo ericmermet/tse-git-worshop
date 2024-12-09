@@ -1,0 +1,15 @@
+# Git Extra Commands
+
+## Change Branch Name
+
+To rename the current branch:
+
+```sh
+git branch -m new_branch_name
+```
+
+To clean history of a file :
+
+```sh
+git filter-branch --tree-filter 'rm -f path/to/file' HEAD
+```
