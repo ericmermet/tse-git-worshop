@@ -41,6 +41,8 @@ The objectives of this workshop are:
     - Push changes: `git push`
     - Pull changes: `git pull`
     - Clone a repository: `git clone`
+3. **Working with Git inside an editor or a edito**
+   Git can be used inside a variety of IDE or editor such Matlab, Visual Studio Code, PyCharm, RStudio,...
 
 ## Part 3: Practice and Exercises (1h)
 1. **Practical Exercise**
