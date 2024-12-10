@@ -16,6 +16,9 @@ The objectives of this workshop are:
 ## Part 1: Git Basics (1h)
 1. **Introduction to Git**
     - What is Git?
+       It is a distributed version control system that tracks versions of files.. It is a free and open-source software shared under the GPL-2.0-only license.
+      It works with a local copy of the entire repository, a.k.a. repo, with history and version-tracking abilities, independent of network access or a central server, viewed as a folder.
+      It has a feature to synchronize changes between repos that share history; copied (cloned) from each other, even remotely.
     - Installing Git
     - Initial Git configuration
 
